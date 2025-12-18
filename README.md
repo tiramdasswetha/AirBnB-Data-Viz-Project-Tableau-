@@ -30,8 +30,6 @@ The goal is to demonstrate practical data visualization, storytelling, and analy
 
 ## 📷 Dashboard Preview
 
-[![AirBnB Tableau Dashboard](Dashboard.jpg)](https://public.tableau.com/views/AirBnBFullProject_17660515486690/Dashboard1)
-
 [![AirBnB Tableau Dashboard](Dashboard.jpg)](https://public.tableau.com/views/AirBnBFullProject_17660515486690/Dashboard1
 )
 
