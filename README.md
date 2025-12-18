@@ -17,6 +17,7 @@ The goal is to demonstrate practical data visualization, storytelling, and analy
 * Track **revenue trends over the year**
 * Compare **pricing variations across zip codes**
 * Build a clean, interactive, and insight-driven Tableau dashboard
+  
 ---
 ## 📌 Key Insights
 
@@ -27,21 +28,11 @@ The goal is to demonstrate practical data visualization, storytelling, and analy
 
 ---
 
-## 🛠 Tools & Technologies
-
-* **Tableau Public** – Data visualization & dashboarding
-* **Excel / CSV** – Data preparation and cleaning
-* **Data Analysis** – Aggregations, calculated fields, and filters
-
----
-
 ## 📷 Dashboard Preview
 
 
-```md
-![Airbnb Tableau Dashboard](dashboard.png)](https://public.tableau.com/views/AirBnBFullProject_17660515486690/Dashboard1
-)
-```
+![Airbnb Tableau Dashboard](Dashboard.jpg)
+
 
 ## 👤 Author
 
