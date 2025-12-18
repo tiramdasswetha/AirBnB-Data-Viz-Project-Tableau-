@@ -32,10 +32,3 @@ The goal is to demonstrate practical data visualization, storytelling, and analy
 
 [![AirBnB Tableau Dashboard](tableau-dashboard.jpg)](https://public.tableau.com/views/AirBnBFullProject_17660515486690/Dashboard1)
 
-
-## 👤 Author
-
-**Swetha Tiramdas**
-Aspiring Data Analyst | Power BI | Tableau | Excel
-
-🔗 LinkedIn: YOUR_LINKEDIN_URL
